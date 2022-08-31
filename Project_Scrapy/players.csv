@@ -1,0 +1,101 @@
+age,curr_team,height,name,national,weight
+28,Philadelphia Sixers,213,Joel Embiid,Cameroon,127
+27,Denver Nuggets,213,Nikola Jokic,Serbia,129
+23,Memphis Grizzlies,191,Ja Morant,United States,79
+24,Boston Celtics,203,Jayson Tatum,United States,95
+23,Atlanta Hawks,185,Trae Young,United States,82
+27,Milwaukee Bucks,211,Giannis Antetokounmpo,Greece,110
+37,Los Angeles Lakers,203,LeBron James,United States,113
+33,Chicago Bulls,198,DeMar DeRozan,United States,100
+23,Dallas Mavericks,201,Luka Doncic,Slovenia,104
+33,Brooklyn Nets,208,Kevin Durant,United States,102
+25,Utah Jazz,191,Donovan Mitchell,United States,98
+34,Golden State Warriors,191,Stephen Curry,United States,88
+26,Minnesota Timberwolves,213,Karl-Anthony Towns,United States,113
+27,Chicago Bulls,196,Zach LaVine,United States,92
+25,Phoenix Suns,198,Devin Booker,United States,93
+25,Boston Celtics,198,Jaylen Brown,United States,100
+24,Sacramento Kings,191,De'Aaron Fox,United States,84
+28,Toronto Raptors,206,Pascal Siakam,Cameroon,104
+30,New Orleans Pelicans,191,C.J. McCollum,United States,86
+33,Philadelphia Sixers,196,James Harden,United States,100
+22,Cleveland Cavaliers,185,Darius Garland,United States,84
+21,Minnesota Timberwolves,196,Anthony Edwards,United States,104
+25,Atlanta Hawks,196,Dejounte Murray,United States,82
+22,Miami Heat,198,Tyler Herro,United States,88
+28,Toronto Raptors,183,Fred VanVleet,United States,88
+24,,201,Miles Bridges,United States,102
+21,Charlotte Hornets,201,LaMelo Ball,United States,84
+27,New York Knicks,206,Julius Randle,United States,113
+31,Milwaukee Bucks,203,Khris Middleton,United States,101
+22,New York Knicks,201,R.J. Barrett,Canada,92
+28,Charlotte Hornets,185,Terry Rozier,United States,88
+26,Sacramento Kings,211,Domantas Sabonis,United States,109
+23,Golden State Warriors,193,Jordan Poole,United States,88
+33,Los Angeles Lakers,191,Russell Westbrook,United States,91
+23,Toronto Raptors,198,"Gary Trent, Jr.",United States,93
+32,Milwaukee Bucks,193,Jrue Holiday,United States,93
+24,Memphis Grizzlies,198,Desmond Bane,United States,98
+26,Minnesota Timberwolves,193,D'Angelo Russell,United States,88
+33,Utah Jazz,203,Bojan Bogdanovic,Bosnia and Herzegovina,98
+26,Dallas Mavericks,208,Christian Wood,United States,101
+30,New Orleans Pelicans,211,Jonas Valanciunas,Lithuania,120
+31,Chicago Bulls,213,Nikola Vucevic,Switzerland,118
+21,Philadelphia Sixers,188,Tyrese Maxey,United States,88
+20,Detroit Pistons,198,Cade Cunningham,United States,100
+20,Houston Rockets,198,Jalen Green,United States,81
+30,Philadelphia Sixers,201,Tobias Harris,United States,104
+27,Golden State Warriors,201,Andrew Wiggins,Canada,93
+24,Phoenix Suns,216,Deandre Ayton,Bahamas,113
+27,Washington Wizards,208,Kyle Kuzma,United States,100
+22,San Antonio Spurs,198,Keldon Johnson,United States,95
+28,Cleveland Cavaliers,198,Caris LeVert,United States,93
+32,Los Angeles Clippers,188,Reggie Jackson,Italy,94
+30,Sacramento Kings,203,Harrison Barnes,United States,102
+22,Orlando Magic,191,Cole Anthony,United States,86
+22,Memphis Grizzlies,211,"Jaren Jackson, Jr.",United States,110
+25,New York Knicks,185,Jalen Brunson,United States,86
+23,Detroit Pistons,203,Saddiq Bey,United States,98
+30,Utah Jazz,196,Jordan Clarkson,United States,87
+29,Indiana Pacers,193,Buddy Hield,Bahamas,100
+30,Minnesota Timberwolves,216,Rudy Gobert,France,111
+22,Houston Rockets,193,"Kevin Porter, Jr.",United States,92
+22,Indiana Pacers,196,Tyrese Haliburton,United States,78
+21,Toronto Raptors,206,Scottie Barnes,United States,103
+21,Orlando Magic,206,Franz Wagner,Germany,102
+30,Atlanta Hawks,198,Bogdan Bogdanovic,Serbia,100
+23,Orlando Magic,208,"Wendell Carter, Jr.",United States,122
+26,Denver Nuggets,203,Aaron Gordon,United States,107
+32,Brooklyn Nets,185,Seth Curry,United States,86
+21,Cleveland Cavaliers,213,Evan Mobley,United States,98
+26,Charlotte Hornets,198,"Kelly Oubre, Jr.",United States,93
+25,Cleveland Cavaliers,213,Lauri Markkanen,Finland,108
+37,Phoenix Suns,183,Chris Paul,United States,79
+31,Washington Wizards,196,Will Barton,United States,82
+27,Milwaukee Bucks,211,Bobby Portis,United States,113
+26,Phoenix Suns,201,Mikal Bridges,United States,95
+29,New York Knicks,201,Evan Fournier,France,93
+24,Sacramento Kings,191,Malik Monk,United States,91
+29,Dallas Mavericks,196,Spencer Dinwiddie,United States,98
+34,Utah Jazz,185,Mike Conley,United States,79
+28,,191,Dennis Schroder,Germany,78
+26,San Antonio Spurs,213,Jakob Poeltl,Austria,109
+36,Miami Heat,185,Kyle Lowry,United States,89
+38,,203,Carmelo Anthony,United States,109
+28,Boston Celtics,193,Derrick White,United States,88
+28,,201,Montrezl Harrell,United States,109
+29,Denver Nuggets,196,Kentavious Caldwell-Pope,United States,93
+22,Chicago Bulls,196,Coby White,United States,87
+27,Washington Wizards,188,Monte Morris,United States,83
+26,Phoenix Suns,206,Cameron Johnson,United States,95
+33,Cleveland Cavaliers,203,Kevin Love,United States,112
+22,San Antonio Spurs,201,Devin Vassell,United States,88
+23,Los Angeles Lakers,196,Lonnie Walker,United States,93
+28,Boston Celtics,191,Marcus Smart,United States,100
+25,Utah Jazz,193,Malik Beasley,United States,89
+24,Sacramento Kings,201,Kevin Huerter,United States,86
+26,Los Angeles Clippers,196,Luke Kennard,United States,93
+27,New Orleans Pelicans,185,Devonte' Graham,United States,84
+26,Houston Rockets,193,Jae'sean Tate,United States,104
+31,Detroit Pistons,198,Alec Burks,United States,97
+34,Boston Celtics,208,Danilo Gallinari,Italy,106
